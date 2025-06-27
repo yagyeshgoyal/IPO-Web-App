@@ -23,56 +23,68 @@ function StockInvestor() {
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.anil} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Anil Goel</p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.ashishdhawan} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Ashish Dhawan</p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.ashish} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Ashish Kacholia</p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.dolly} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Dolly Rajeev Khanna</p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.hemendra} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Hemendra Kothari</p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.nemish} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Nemish Shah </p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.porinju} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Porinju Veliyath </p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.radha} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Radhakishan Damani </p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>
         <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
-          <img src={assest.rakesh} className='w-[228px] h-[180px] ' />
-          <p className='text-[16px] text-center font-bold mt-4'>Rakesh Jhunjhunwala</p>
+          <img src={assest.sunil} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Sunil Singhania </p>
+          <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
+          <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
+        </div>
+        <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
+          <img src={assest.vijay} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Vijay Kedia</p>
+          <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
+          <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
+        </div>
+        <div className='w-[228px] h-[353px] bg-white rounded flex-col justify-center items-center p-[20px]'>
+          <img src={assest.anil} className='w-[228px] h-[180px] ' />
+          <p className='text-[16px] text-center font-bold mt-4'>Anil Goel</p>
           <p className = 'text-[12px] mt-4'>He starting inversment in the 90’s His inversement st....</p>
           <button className = 'bg-blue-700 text-white text-[12px] p-1 px-5 rounded ml-[35px] mt-4'>View Holdings</button>
         </div>

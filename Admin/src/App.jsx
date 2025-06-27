@@ -12,8 +12,8 @@ function App() {
   return (
     <div className=''>
       <Navbar/>
-      {/* <StockInvestor/> */}
-      <AllBrokers/>
+      <StockInvestor/>
+      {/* <AllBrokers/> */}
     </div>
   )
 }

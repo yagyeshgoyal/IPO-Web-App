@@ -19,6 +19,17 @@ import SBI from './SBI_securities.png';
 import Sharekhan from './Sharekhan.png';
 import SMC from './SMC_Global.png';
 import Zerodha from './Zerodha.png';
+import anil from './Anil Goel.png';
+import ashishdhawan from './Ashish Dhawan.png';
+import ashish from './Ashish Kacholia.png';
+import dolly from './Dolly Rajeev Khanna.png';
+import nemish from './Nemish Shah.png';
+import porinju from './Porinju Veliyath.png';
+import radha from './Radhakishan Damani.png';
+import sunil from './Sunil Singhania.png';
+import hemendra from './Hemendra Kothari.png';
+
+
 
 
 export const assest = {
@@ -42,6 +53,16 @@ export const assest = {
     SBI,
     Sharekhan,
     SMC,
-    Zerodha
+    Zerodha,
+    anil,
+    sunil,
+    radha,
+    porinju,
+    nemish,
+    dolly,
+    ashish,
+    ashishdhawan,
+    hemendra,
+
     
 };
