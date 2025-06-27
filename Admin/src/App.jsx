@@ -5,6 +5,8 @@ import './App.css'
 import Navbar from './Components/Navbar'
 import StockInvestor from './Components/StockInvestor'
 import AllBrokers from './Components/AllBrokers'
+import Card from './Components/card'
+import IPO  from './Components/UpcomingIPO'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,8 +14,10 @@ function App() {
   return (
     <div className=''>
       <Navbar/>
-      <StockInvestor/>
+      {/* <StockInvestor/> */}
       {/* <AllBrokers/> */}
+      {/* <Card/> */}
+      <IPO/>
     </div>
   )
 }

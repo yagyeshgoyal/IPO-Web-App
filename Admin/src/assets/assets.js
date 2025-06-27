@@ -28,6 +28,18 @@ import porinju from './Porinju Veliyath.png';
 import radha from './Radhakishan Damani.png';
 import sunil from './Sunil Singhania.png';
 import hemendra from './Hemendra Kothari.png';
+import nova from './nova.png';
+import boat from './boat.png';
+import cmr from './cmr.jpg';
+import epack from './Epack.jpg';
+import ixigo from './ixigo.png';
+import kids from './kids.jpg';
+import ola from './Ola.png';
+import one from './One.png';
+import oravel from './Oravel.png';
+import pkh from './pkh.jpg';
+import rk from './RK Swamy.jpg';
+import wellness from './wellness.png';
 
 
 
@@ -63,6 +75,18 @@ export const assest = {
     ashish,
     ashishdhawan,
     hemendra,
+    nova,
+    rk,
+    boat,
+    cmr,
+    epack,
+    ixigo,
+    kids,
+    ola,
+    one,
+    oravel,
+    pkh,
+    wellness,
 
     
 };
