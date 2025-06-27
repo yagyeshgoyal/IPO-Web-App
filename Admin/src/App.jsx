@@ -4,14 +4,16 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './Components/Navbar'
 import StockInvestor from './Components/StockInvestor'
+import AllBrokers from './Components/AllBrokers'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
+    <div className=''>
       <Navbar/>
-      <StockInvestor/>
+      {/* <StockInvestor/> */}
+      <AllBrokers/>
     </div>
   )
 }
