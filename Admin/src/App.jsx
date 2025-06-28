@@ -7,17 +7,19 @@ import StockInvestor from './Components/StockInvestor'
 import AllBrokers from './Components/AllBrokers'
 import Card from './Components/card'
 import IPO  from './Components/UpcomingIPO'
+import Signin from './Components/Signin'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div className=''>
-      <Navbar/>
+      {/* <Navbar/> */}
       {/* <StockInvestor/> */}
       {/* <AllBrokers/> */}
       {/* <Card/> */}
-      <IPO/>
+      {/* <IPO/> */}
+      <Signin/>
     </div>
   )
 }

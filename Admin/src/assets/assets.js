@@ -40,7 +40,8 @@ import oravel from './Oravel.png';
 import pkh from './pkh.jpg';
 import rk from './RK Swamy.jpg';
 import wellness from './wellness.png';
-
+import recaptcha from './recaptcha.png';
+import google from './google.png';
 
 
 
@@ -87,6 +88,7 @@ export const assest = {
     oravel,
     pkh,
     wellness,
-
+    recaptcha,
+    google,
     
 };
