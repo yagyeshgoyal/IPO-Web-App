@@ -8,6 +8,7 @@ import AllBrokers from './Components/AllBrokers'
 import Card from './Components/card'
 import IPO  from './Components/UpcomingIPO'
 import Signin from './Components/Signin'
+import Signup from './Components/Signup'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,7 +20,8 @@ function App() {
       {/* <AllBrokers/> */}
       {/* <Card/> */}
       {/* <IPO/> */}
-      <Signin/>
+      {/* <Signin/> */}
+      <Signup/>
     </div>
   )
 }
